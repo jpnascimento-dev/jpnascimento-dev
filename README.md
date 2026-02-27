@@ -1,9 +1,9 @@
 ## Ola! Eu sou João Nascimento.
 
 🧠 Técnico em desenvolvimento de sistemas <br/>
-📖 Estudante em Desenvolvimento de sistemas na ETEC Professor Alfredo de Barros<br/>
-🗣️ Falante intermediário de Inglês, nível B1<br/>
-💻 Desenvolvedor Full-Stack<br/>
+📖 Estudante em Análise e Desenvolvimento de sistemas na FATEC Guaratinguetá - Prof. João Mod<br/>
+🗣️ Falante intermediário de Inglês<br/>
+💻 Desenvolvedor Web<br/>
 <br/>
 
 
